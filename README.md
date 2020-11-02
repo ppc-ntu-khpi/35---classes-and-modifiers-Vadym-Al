@@ -37,11 +37,11 @@
 ![](https://github.com/ppc-ntu-khpi/Class-Starter/raw/main/images/GetterAndSetter.png)
   * **використати ці методи** в методі в методі ````main```` класу````CustomerTest````
   * зробити та зберегти (тека **Solution**) у файл ````advanced.png```` **скріншот** результатів роботи програми, та модифікувати файл ````README.md````відповідним чином
-# Виконання 
-## Виконання роботи на 4
+## Виконання 
+### Виконання роботи на 4
 ![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-Vadym-Al/blob/main/Solution/Done.png)
-## Виконання роботи на 5
+### Виконання роботи на 5
 ![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-Vadym-Al/blob/main/Solution/Done%20-%205.png)
-
-
+### Код класу Customar
+![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-Vadym-Al/blob/main/src/domain/Customer.java)
 
