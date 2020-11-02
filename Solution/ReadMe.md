@@ -1,5 +1,4 @@
-##Виконання практичної роботи
-#Перша частина на 4
+1. Виконання роботи на 4
 ![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-Vadym-Al/blob/main/Solution/Done.png)
-*Друга частина*
-![]
+2. Виконання роботи на 5
+![]()
