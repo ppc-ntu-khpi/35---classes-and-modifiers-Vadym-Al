@@ -11,10 +11,14 @@ public class Customer {
 
     }
     public void setID(int ID){
-        this.ID = ID;
+        if (ID>0){
+            this.ID = ID;
+        }
     }
     public  void setTotal(float total){
-        this.total = total;
+        if (total>0){
+            this.total = total;
+        }
     }
     public void setNew(boolean isNew){
         this.isNew = isNew;
